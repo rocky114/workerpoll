@@ -1,4 +1,4 @@
-package workerpoll
+package workerpool
 
 import "fmt"
 
